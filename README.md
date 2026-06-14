@@ -32,7 +32,7 @@ This project covers the complete Power BI development lifecycle:
 ![Overview](Dashboard_Images/Overview.jpg)
 
 ### 📋 Transactions Page
-![Transactions](Dashboard_Images/Transactions.jpg)
+![Transactions](Dashboard_Images/Transaction.jpg)
 ---
 
 ## 📊 Key KPIs — Year 2025
