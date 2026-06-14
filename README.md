@@ -29,7 +29,7 @@ This project covers the complete Power BI development lifecycle:
 ## 🖥️ Dashboard Preview
 
 ### 📊 Overview Page
-![Overview](dashboard_images/Overview.jpg)
+![Overview](Dashboard_Images/Overview.jpg)
 
 ### 📋 Transactions Page
 ![Transactions](Dashboard_Images/Transaction.jpg)
