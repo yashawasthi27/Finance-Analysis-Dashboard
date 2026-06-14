@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💰 Finance Analysis Dashboard
-### *Real-Time Insights into Transactions, Customer Behaviour & Risk*
+### *Dynamic Insights into Transactions, Customer Behaviour & Risk*
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-The **Finance Analysis Dashboard** is a professional, multi-page Power BI report built for **Awasthi Finance**. It delivers real-time visibility into transaction volumes, sales performance, customer segments, and regional distribution — all powered by a dynamic DAX-based metric switching system.
+The **Finance Analysis Dashboard** is a professional, multi-page Power BI report built for **Awasthi Finance**. It delivers dynamic visibility into transaction volumes, sales performance, customer segments, and regional distribution — all powered by a dynamic DAX-based metric switching system.
 
 This project covers the complete Power BI development lifecycle:
 
@@ -33,6 +33,7 @@ This project covers the complete Power BI development lifecycle:
 
 ### 📋 Transactions Page
 ![Transactions](Dashboard_Images/Transaction.jpg)
+
 ---
 
 ## 📊 Key KPIs — Year 2025
@@ -145,6 +146,12 @@ DIVIDE(
 
 ---
 
+## 🗂️ Project Approach
+
+Business requirements were defined upfront before any development began. The `Business_Requirements.docx` file in this repo outlines the KPIs, reporting needs, and stakeholder goals that shaped the dashboard design — demonstrating a structured, business-first approach to analytics.
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -155,10 +162,11 @@ Finance-Analysis-Dashboard/
 │   └── 🖼️ Transaction.jpg           # Transactions page screenshot
 │
 ├── 📁 data_set_used/
-│   └── 📄 (source data files)       # Raw dataset used for the dashboard
+│   └── 📄 (source data files)       # Synthetic financial transaction dataset (~15K records)
+│                                    # simulating a finance company's operations
 │
-├── 📄 Business_Requirements.docx    # Project business requirements document
-├── 📊 finace_dashboard.pbix         # Main Power BI report file
+├── 📄 Business_Requirements.docx    # Stakeholder KPIs & reporting requirements
+├── 📊 finance_dashboard.pbix        # Main Power BI report file
 └── 📄 README.md                     # Project documentation
 ```
 
