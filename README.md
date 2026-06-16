@@ -11,11 +11,11 @@ A multi-page interactive financial analytics dashboard built with Power BI Deskt
 
 ### Overview Page
 
-![Overview](Dashboard_Images/Overview.jpg)
+![Overview](Dashboard_Images/Overview.png)
 
 ### Transactions Page
 
-![Transactions](Dashboard_Images/Transaction.jpg)
+![Transactions](Dashboard_Images/Transaction.png)
 
 ---
 
